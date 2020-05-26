@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\UnitTest\BasicMath\bin\Debug\BasicMath.exe.config
+C:\Users\kaviya\source\repos\UnitTest\BasicMath\bin\Debug\BasicMath.exe
+C:\Users\kaviya\source\repos\UnitTest\BasicMath\bin\Debug\BasicMath.pdb
+C:\Users\kaviya\source\repos\UnitTest\BasicMath\obj\Debug\BasicMath.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\UnitTest\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\UnitTest\BasicMath\obj\Debug\BasicMath.exe
+C:\Users\kaviya\source\repos\UnitTest\BasicMath\obj\Debug\BasicMath.pdb
